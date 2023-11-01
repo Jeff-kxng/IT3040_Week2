@@ -6,7 +6,7 @@
  Int: 27
  Double: 140.61
  */
-// Sok Sokong
+// Sok Sokong 20211005
 #include <stdio.h>
 int ham(int x) {
     return x*x*x;
