@@ -9,7 +9,7 @@
  (3.2+4i) * (1.1-1i) = (7.5+1.2i)
  (3.2+4i) / (1.1-1i) = (-0.22+3.4i)
  */
-// Sok Sokong
+// Sok Sokong 20211005
 #include <iostream>
 #include <ostream>
 #include <math.h>
